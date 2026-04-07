@@ -36,13 +36,7 @@ export default function HomePage() {
                   <Link href={item.href}>{item.title}</Link>
                 </h2>
               </div>
-              {item.date ? (
-                <p className="metaLine">
-                  {formatShortDate(item.date)} • {item.readTimeMinutes} min read
-                </p>
-              ) : (
-                <p className="metaLine">{item.readTimeMinutes} min read</p>
-              )}
+              {item.date ? <p className="metaLine">{formatShortDate(item.date)}</p> : null}
             </li>
           ))}
         </ul>
