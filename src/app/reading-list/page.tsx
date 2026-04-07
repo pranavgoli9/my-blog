@@ -8,8 +8,10 @@ export default function ReadingListPage() {
   return (
     <>
       <header className="listHeader">
-        <h1>Reading list</h1>
-        <p>Saved reads from Markdown in <code>content/reading-list</code>.</p>
+        <h1>Reading</h1>
+        <p className="bio">
+          A running list of links and notes I want to remember.
+        </p>
       </header>
 
       <ul className="list">

@@ -17,6 +17,7 @@ export type ListItem = {
   title: string;
   date?: string;
   excerpt?: string;
+  readTimeMinutes: number;
 };
 
 export type FullItem = ListItem & {
@@ -29,6 +30,17 @@ function collectionDir(collection: Collection) {
 
 function safeString(v: unknown): string | undefined {
   return typeof v === "string" && v.trim().length ? v : undefined;
+}
+
+function estimateReadTimeMinutes(markdown: string): number {
+  // Simple estimate: 200 wpm, minimum 1 minute.
+  const words = markdown
+    .replace(/```[\s\S]*?```/g, " ") // ignore fenced code blocks for better estimates
+    .replace(/`[^`]*`/g, " ") // ignore inline code
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean).length;
+  return Math.max(1, Math.ceil(words / 200));
 }
 
 function listSlugs(collection: Collection): string[] {
@@ -52,14 +64,15 @@ export function getListItems(collection: Collection): ListItem[] {
   const items = slugs.map((slug) => {
     const fullPath = path.join(dir, `${slug}.md`);
     const file = fs.readFileSync(fullPath, "utf8");
-    const { data } = matter(file);
+    const { data, content } = matter(file);
     const fm = data as MarkdownFrontmatter;
 
     return {
       slug,
       title: safeString(fm.title) ?? slug,
       date: safeString(fm.date),
-      excerpt: safeString(fm.excerpt)
+      excerpt: safeString(fm.excerpt),
+      readTimeMinutes: estimateReadTimeMinutes(content)
     };
   });
 
