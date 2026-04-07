@@ -98,6 +98,7 @@ export async function getFullItem(
     title: safeString(fm.title) ?? slug,
     date: safeString(fm.date),
     excerpt: safeString(fm.excerpt),
+    readTimeMinutes: estimateReadTimeMinutes(content),
     contentHtml
   };
 }
