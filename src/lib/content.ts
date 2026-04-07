@@ -24,6 +24,11 @@ export type FullItem = ListItem & {
   contentHtml: string;
 };
 
+export type WritingItem = ListItem & {
+  kind: "post" | "pitch";
+  href: string;
+};
+
 function collectionDir(collection: Collection) {
   return path.join(process.cwd(), "content", collection);
 }
@@ -78,6 +83,21 @@ export function getListItems(collection: Collection): ListItem[] {
 
   // Newest first when dates are present; otherwise keep stable order.
   return items.sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
+}
+
+export function getLatestWritingItems(): WritingItem[] {
+  const posts = getListItems("posts").map((p) => ({
+    ...p,
+    kind: "post" as const,
+    href: `/posts/${p.slug}`
+  }));
+  const pitches = getListItems("pitches").map((p) => ({
+    ...p,
+    kind: "pitch" as const,
+    href: `/pitches/${p.slug}`
+  }));
+
+  return [...posts, ...pitches].sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
 }
 
 export async function getFullItem(

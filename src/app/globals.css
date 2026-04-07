@@ -49,11 +49,29 @@ a:hover {
 .headerInner {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 16px;
 }
 
 .brand {
   font-weight: 650;
   font-size: 18px;
+}
+
+.topNav {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.topNavLink {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.topNavLink:hover {
+  color: var(--text);
 }
 
 .listHeader {

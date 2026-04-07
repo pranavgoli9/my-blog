@@ -10,7 +10,6 @@ export default function PitchesPage() {
     <>
       <header className="listHeader">
         <h1>Pitches</h1>
-        <p>One-pagers and ideas from Markdown in <code>content/pitches</code>.</p>
       </header>
 
       <ul className="list">
@@ -22,6 +21,7 @@ export default function PitchesPage() {
               </h2>
               {p.date ? <span className="date">{p.date}</span> : null}
             </div>
+            <p className="metaLine">{p.readTimeMinutes} min read</p>
             {p.excerpt ? <p className="excerpt">{p.excerpt}</p> : null}
           </li>
         ))}
