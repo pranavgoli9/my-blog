@@ -1,5 +1,5 @@
 ---
-title: Paycom Software (NYSE: PAYC)
+title: "Paycom Software (NYSE: PAYC)"
 date: 2026-09-30
 ---
 
