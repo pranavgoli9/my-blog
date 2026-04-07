@@ -19,9 +19,8 @@ export default function PitchesPage() {
               <h2>
                 <Link href={`/pitches/${p.slug}`}>{p.title}</Link>
               </h2>
-              {p.date ? <span className="date">{p.date}</span> : null}
             </div>
-            <p className="metaLine">{p.readTimeMinutes} min read</p>
+            {p.date ? <p className="metaLine">{p.date}</p> : null}
             {p.excerpt ? <p className="excerpt">{p.excerpt}</p> : null}
           </li>
         ))}

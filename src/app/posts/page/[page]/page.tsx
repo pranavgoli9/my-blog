@@ -43,9 +43,8 @@ async function PostsListInner({ params }: { params: Promise<{ page: string }> })
               <h2>
                 <Link href={`/posts/${p.slug}`}>{p.title}</Link>
               </h2>
-              {p.date ? <span className="date">{p.date}</span> : null}
             </div>
-            <p className="metaLine">{p.readTimeMinutes} min read</p>
+            {p.date ? <p className="metaLine">{p.date}</p> : null}
             {p.excerpt ? <p className="excerpt">{p.excerpt}</p> : null}
           </li>
         ))}
