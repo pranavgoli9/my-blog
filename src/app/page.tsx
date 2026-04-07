@@ -1,6 +1,14 @@
 import Link from "next/link";
 import { getLatestWritingItems } from "@/lib/content";
 
+function formatShortDate(isoDate: string) {
+  // Expecting yyyy-mm-dd. Format as M/D/YYYY (no leading zeros).
+  const m = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!m) return isoDate;
+  const [, yyyy, mm, dd] = m;
+  return `${Number(mm)}/${Number(dd)}/${yyyy}`;
+}
+
 export default function HomePage() {
   const latestWriting = getLatestWritingItems();
 
@@ -28,7 +36,13 @@ export default function HomePage() {
                   <Link href={item.href}>{item.title}</Link>
                 </h2>
               </div>
-              {item.date ? <p className="metaLine">{item.date}</p> : null}
+              {item.date ? (
+                <p className="metaLine">
+                  {formatShortDate(item.date)} • {item.readTimeMinutes} min read
+                </p>
+              ) : (
+                <p className="metaLine">{item.readTimeMinutes} min read</p>
+              )}
             </li>
           ))}
         </ul>
