@@ -16,8 +16,8 @@ export default function HomePage() {
     <>
       <section className="bio">
         <p>
-          I’m Pranav. I write about things I’m learning—mostly product, engineering, and whatever
-          I’m curious about that week.
+          I study economics and computer science at Penn. In my free time, I enjoy watching soccer, learning about businesses by looking at different stocks, trying out new places to eat, and reading. 
+          Here you'll find some of my work, things I've been thinking about, and what I'm reading.
         </p>
       </section>
 
