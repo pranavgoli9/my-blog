@@ -10,7 +10,7 @@ export default function PostsPage() {
   return (
     <>
       <header className="listHeader readingPageHeader">
-        <h1>Recent Posts</h1>
+        <h1>Random Thoughts</h1>
       </header>
 
       <ul className="list">
