@@ -16,7 +16,7 @@ export default function HomePage() {
     <>
       <section className="bio">
         <p>
-          I study Economics and Computer Science at Penn. In my free time, I enjoy watching soccer, learning about businesses by looking at different stocks, trying out new places to eat, and reading. 
+          I grew up in Hoover, Alabama, and am currently studying Economics and Computer Science at Penn. In my free time, I enjoy watching soccer, learning about businesses by looking at different stocks, trying out new places to eat, and reading. 
           Here you'll find some of my work, things I've been thinking about, and what I'm reading.
         </p>
       </section>
@@ -24,7 +24,7 @@ export default function HomePage() {
       <hr className="sectionRule" />
 
       <section className="section">
-        <header className="listHeader">
+        <header className="listHeader readingPageHeader">
           <h1>Latest</h1>
         </header>
 
