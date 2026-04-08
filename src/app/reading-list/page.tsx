@@ -1,29 +1,24 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-
 export const dynamic = "force-static";
-
 type Book = {
   title: string;
   author: string;
 };
-
 type Section = {
   label: string;
+  subtitle?: string;
   books: Book[];
 };
-
 function getReadingList() {
   const filePath = path.join(process.cwd(), "content", "reading-list", "markdown-frontmatter.md");
   const file = fs.readFileSync(filePath, "utf8");
   const { data } = matter(file);
   return data as { title: string; sections: Section[] };
 }
-
 export default function ReadingListPage() {
   const { sections } = getReadingList();
-
   return (
     <>
       <header className="listHeader readingPageHeader">
@@ -35,6 +30,7 @@ export default function ReadingListPage() {
           <h2 className="readingSectionLabel">
             {section.label} ({section.books.length})
           </h2>
+          {section.subtitle && <p className="metaLine">{section.subtitle}</p>}
           <ul className="list">
             {section.books.map((book, i) => (
               <li key={`${book.title}-${i}`} className="listItem">
