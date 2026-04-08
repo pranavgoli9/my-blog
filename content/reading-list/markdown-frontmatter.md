@@ -34,7 +34,7 @@ title: Reading List
 # Read in High School (28)  
 **The Outsiders** by S.E. Hinton  
 **Great Gatsby** by F. Scott Fitzgerald   
-**Animal Farm** by by George Orwell  
+**Animal Farm** by George Orwell  
 **Fahrenheit 451** by Ray Bradbury  
 **Invisible Man** by Ralph Ellison  
 **Moby Dick** by Herman Melville  
@@ -44,7 +44,6 @@ title: Reading List
 **1984** by George Orwell  
 **Of Mice and Men** by John Steinbeck  
 **To Kill a Mockingbird** by Harper Lee  
-**The Outsiders** by S.E. Hinton  
 **Things Fall Apart** by Chinua Achebe  
 **The Old Gringo** by Carlos Fuentes  
 **Julius Caesar** by William Shakespeare  
