@@ -28,9 +28,6 @@ export default function ReadingListPage() {
     <>
       <header className="listHeader readingPageHeader">
         <h1>Reading List</h1>
-        <p className="bio">
-          A collection of books I'm currently reading, have completed, or plan to read.
-        </p>
       </header>
       {sections.map((section) => (
         <section key={section.label} className="section">
