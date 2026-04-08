@@ -9,8 +9,8 @@ export default function PostsPage() {
 
   return (
     <>
-      <header className="listHeader">
-        <h1>Writing</h1>
+      <header className="listHeader readingPageHeader">
+        <h1>Recent Posts</h1>
       </header>
 
       <ul className="list">
