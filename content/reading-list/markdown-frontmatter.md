@@ -3,7 +3,7 @@ title: Reading List
 sections:
   - label: Currently Reading
     books:
-      - title: Investing: The Last Liberal Art
+      - title: "Investing: The Last Liberal Art"
         author: Robert Hagstrom
       - title: Quality Investing
         author: Lawrence Cunningham
