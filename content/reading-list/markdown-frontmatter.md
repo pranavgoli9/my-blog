@@ -2,13 +2,13 @@
 title: Reading List
 ---
 
-#Currently Reading (2)
-##Books I'm working through right now
+# Currently Reading (2)
+### Books I'm working through right now
 **Investing: The Last Liberal Art** by Robert Hagstrom
-**Quality Investing** by Lawnrence Cunningham
+**Quality Investing** by Lawrence Cunningham
 
-#Completed (13)
-##Books I've read since starting college in 2023
+# Completed (13)
+### Books I've read since starting college in 2023
 **The Little Book of Common Sense Investing** by John Bogle 
 **How to Win Friends and Influence People** by Dale Carnegie
 **The Psychology of Money** by Morgan Housel
@@ -23,8 +23,8 @@ title: Reading List
 **The Count of Monte Cristo** (Penguin Classics translation) by Alexandre Dumas
 **Competition Demystified** by Bruce Greenwald
 
-#Want to Read (8)
-##Books I'm excited to read
+# Want to Read (8)
+### Books I'm excited to read
 **The Myth of Sisyphus** by Albert Camus
 **The Catcher in the Rye** by J.D. Salinger
 **Frankenstein** by Mary Shelley
@@ -34,29 +34,30 @@ title: Reading List
 **Inside the House of Money** by Steven Drobny
 **Expectations Investing** by Michael Mauboussin and Alfred Rappaport
 
-#Read at Altamont (28)
-##Books I read as part of my high school curriculum (excluding those I SparkNoted)
+# Read at Altamont (28)
+### Books I read as part of my high school curriculum (excluding those I SparkNoted)
+**The Outsiders** by S.E. Hinton
 **Great Gatsby** by F. Scott Fitzgerald 
 **Animal Farm** by by George Orwell
 **Fahrenheit 451** by Ray Bradbury
-**The Invisible Man** by Ralph Ellison
+**Invisible Man** by Ralph Ellison
 **Moby Dick** by Herman Melville
 **Lord of the Flies** by William Golding
 **The Count of Monte Cristo** (abridged version) by Alexandre Dumas
 **All Quiet on the Western Front** by Erich Maria Remarque
 **1984** by George Orwell
-**Of Mice and Men** by John Steinback
+**Of Mice and Men** by John Steinbeck
 **To Kill a Mockingbird** by Harper Lee
 **The Outsiders** by S.E. Hinton
 **Things Fall Apart** by Chinua Achebe
 **The Old Gringo** by Carlos Fuentes
 **Julius Caesar** by William Shakespeare
-**The Alchemist** by Paolo Coelho
+**The Alchemist** by Paulo Coelho
 **Catch-22** by Joseph Heller
 **The Book Thief** by Markus Zusak
 **The House on Mango Street** by Sandra Cisneros
 **A Gentleman in Moscow** by Amor Towles
-**Norweigan Wood** by Haruki Murakami
+**Norwegian Wood** by Haruki Murakami
 **Gorgias** by Plato
 **The Odyssey** by Homer
 **The God of Small Things** by Arundhati Roy
