@@ -1,6 +1,6 @@
 ---
 title: "Long Pitch on Paycom Software (NYSE: PAYC)"
-date: "09-30-26"
+date: "09/30/26"
 ---
 
 ## Long Pitch on PAYC
