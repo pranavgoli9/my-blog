@@ -7,7 +7,7 @@ export default function PitchesPage() {
     <>
       <header className="listHeader readingPageHeader">
         <h1>Pitches</h1>
-        <p className="bio">Investment ideas and stock pitches.</p>
+        <p className="bio">Almost every pitch I've worked on. Would love feedback or thoughts: pgoli@sas.upenn.edu.</p>
       </header>
       <ul className="list">
         {pitches.map((p) => (
