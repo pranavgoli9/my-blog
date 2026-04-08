@@ -1,6 +1,14 @@
 import Link from "next/link";
 import { getListItems } from "@/lib/content";
 export const dynamic = "force-static";
+
+function formatShortDate(isoDate: string) {
+  const m = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!m) return isoDate;
+  const [, yyyy, mm, dd] = m;
+  return `${Number(mm)}/${Number(dd)}/${yyyy}`;
+}
+
 export default function PitchesPage() {
   const pitches = getListItems("pitches");
   return (
@@ -17,7 +25,7 @@ export default function PitchesPage() {
                 <Link href={`/pitches/${p.slug}`}>{p.title}</Link>
               </h2>
             </div>
-            {p.date ? <p className="metaLine">{p.date}</p> : null}
+            {p.date ? <p className="metaLine">{formatShortDate(p.date)}</p> : null}
             {p.excerpt ? <p className="excerpt">{p.excerpt}</p> : null}
           </li>
         ))}
