@@ -2,11 +2,11 @@
 title: Reading List
 ---
 
-#Currently Reading (2)  
+# Currently Reading (2)  
 **Investing: The Last Liberal Art** by Robert Hagstrom  
 **Quality Investing** by Lawrence Cunningham  
 
-#Completed (13)  
+# Completed (13)  
 **The Little Book of Common Sense Investing** by John Bogle  
 **How to Win Friends and Influence People** by Dale Carnegie  
 **The Psychology of Money** by Morgan Housel  
@@ -21,7 +21,7 @@ title: Reading List
 **The Count of Monte Cristo** (Penguin Classics translation) by Alexandre Dumas  
 **Competition Demystified** by Bruce Greenwald  
 
-#Want to Read (8)  
+# Want to Read (8)  
 **The Myth of Sisyphus** by Albert Camus  
 **The Catcher in the Rye** by J.D. Salinger  
 **Frankenstein** by Mary Shelley  
@@ -31,7 +31,7 @@ title: Reading List
 **Inside the House of Money** by Steven Drobny  
 **Expectations Investing** by Michael Mauboussin and Alfred Rappaport  
 
-#Read in High School (28)  
+# Read in High School (28)  
 **The Outsiders** by S.E. Hinton  
 **Great Gatsby** by F. Scott Fitzgerald   
 **Animal Farm** by by George Orwell  
