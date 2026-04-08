@@ -22,7 +22,7 @@ date: "2025-12-01"
 **Risks** - Given high FC model for SG&A/production, margins are vulnerable to negative operating-leverage risk. Mitigated by ability to shift mix towards higher margin products and channels. Street also forecasts growth tied to SG&A margin appreciation, but mgmt. has leaned into higher-margin digital marketing for Crocs, is preserving HeyDude margin (9th consecutive quarter of ASP increase, cutting lower margin performance marketing), and emphasize reluctancy to pursue margin-dilutive growth. Fashion risk to top-line mitigated by "20 year fad" legacy/proven playbook, mgmt. focus on developing/maintaining brand health, proven marketing differentiation, & LT casualization structural tailwind.
 
 ## Post-Mortem & Reflection
-I personally think this was the biggest "learning moment" pitch for me, thanks to a lot of failure and lots of calls with different mentors.
+I personally think this was the biggest "learning moment" pitch for me, particularly thanks to several calls with different mentors and lots of feedback from friends.
 
 First, I probably entered my research process overly-attached to this pitch. I went into it having read a very bullish Guggenheim sell-side report that definitely swayed my opinion on the name. I think had I led the research process with objective reading and looking at the data first, I probably would have abandoned the pitch altogether. With that being said, I don't think this by itself necessarily makes my pitch a bad pitch.
 
