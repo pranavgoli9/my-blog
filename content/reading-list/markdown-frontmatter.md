@@ -2,12 +2,14 @@
 title: Reading List
 sections:
   - label: Currently Reading
+    subtitle: Books I'm working on now
     books:
       - title: "Investing: The Last Liberal Art"
         author: Robert Hagstrom
       - title: Quality Investing
         author: Lawrence Cunningham
   - label: Completed
+    subtitle: Since starting at Penn in 2023
     books:
       - title: The Little Book of Common Sense Investing
         author: John Bogle
@@ -36,6 +38,7 @@ sections:
       - title: Competition Demystified
         author: Bruce Greenwald
   - label: Want to Read
+    subtitle: On my list
     books:
       - title: The Myth of Sisyphus
         author: Albert Camus
@@ -53,7 +56,8 @@ sections:
         author: Steven Drobny
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
-  - label: Read in High School
+  - label: Read at Altamont
+    subtitle: Part of my high school curriculum
     books:
       - title: The Outsiders
         author: S.E. Hinton
