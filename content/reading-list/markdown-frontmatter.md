@@ -58,8 +58,8 @@ title: Reading List
 **The Odyssey** by Homer  
 **The God of Small Things** by Arundhati Roy  
 **Night** by Elie Wiesel  
-**A Long Way Gone: Memoirs of a Boy Soldier** by Ishmael Beah
-**The Giver** by Lois Lowry
-**The Glass Menagerie** by Tennessee Williams 
+**A Long Way Gone: Memoirs of a Boy Soldier** by Ishmael Beah  
+**The Giver** by Lois Lowry  
+**The Glass Menagerie** by Tennessee Williams  
 
 
