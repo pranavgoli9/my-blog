@@ -1,31 +1,54 @@
-import { getListItems } from "@/lib/content";
+import fs from "node:fs";
+import path from "node:path";
+import matter from "gray-matter";
 
 export const dynamic = "force-static";
 
+type Book = {
+  title: string;
+  author: string;
+};
+
+type Section = {
+  label: string;
+  books: Book[];
+};
+
+function getReadingList() {
+  const filePath = path.join(process.cwd(), "content", "reading-list", "markdown-frontmatter.md");
+  const file = fs.readFileSync(filePath, "utf8");
+  const { data } = matter(file);
+  return data as { title: string; sections: Section[] };
+}
+
 export default function ReadingListPage() {
-  const items = getListItems("reading-list");
+  const { sections } = getReadingList();
 
   return (
     <>
       <header className="listHeader">
-        <h1>Reading</h1>
+        <h1>Reading List</h1>
         <p className="bio">
-          A running list of links and notes I want to remember.
+          A collection of books I'm currently reading, have completed, or plan to read.
         </p>
       </header>
-
-      <ul className="list">
-        {items.map((i) => (
-          <li key={i.slug} className="listItem" id={i.slug}>
-            <div className="listItemTitle">
-              <h2>{i.title}</h2>
-              {i.date ? <span className="date">{i.date}</span> : null}
-            </div>
-            {i.excerpt ? <p className="excerpt">{i.excerpt}</p> : null}
-          </li>
-        ))}
-      </ul>
+      {sections.map((section) => (
+        <section key={section.label} className="section">
+          <h2 className="readingSectionLabel">
+            {section.label} ({section.books.length})
+          </h2>
+          <ul className="list">
+            {section.books.map((book, i) => (
+              <li key={`${book.title}-${i}`} className="listItem">
+                <div className="listItemTitle">
+                  <h2>{book.title}</h2>
+                </div>
+                <p className="metaLine">by {book.author}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
     </>
   );
 }
-
