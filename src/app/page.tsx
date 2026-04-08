@@ -10,7 +10,7 @@ function formatShortDate(isoDate: string) {
 }
 
 export default function HomePage() {
-  const latestWriting = getLatestWritingItems();
+  const latestWriting = getLatestWritingItems().slice(0, 5);
 
   return (
     <>
