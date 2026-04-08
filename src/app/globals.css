@@ -189,5 +189,5 @@ a:hover {
   font-weight: 600;
 }
 .readingPageHeader + .section {
-  padding-top: 8px;
+  padding-top: 0;
 }
