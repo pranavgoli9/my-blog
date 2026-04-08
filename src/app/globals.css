@@ -194,3 +194,10 @@ a:hover {
 .readingPageHeader + .section .readingSectionLabel {
   margin-top: 0;
 }
+.postItem {
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--rule);
+}
+.postItem:last-child {
+  border-bottom: none;
+}
