@@ -1,0 +1,39 @@
+---
+
+title: "Long Pitch on Crocs (NASDAQ: CROX)"
+
+date: "2025-12-01"
+
+---
+
+## The Pitch
+**Company Background** - Crocs Inc. (NASDAQ: CROX) designs and markets casual footwear products under the Crocs and HeyDude brands. The company sells through DTC and wholesale channels under an asset-light, marketing-centric model, enabling best-in-class margins and capital efficiency (~60% adj. GM, ~25% adj. EBITDA margin, ~18% ROIC).
+
+**Investment Thesis** - Down ~31% from 52W high, CROX faces near-term revenue headwinds due to termination of discounting and lower-margin performance marketing, authorization of wholesaler returns of stale HeyDude inventory, weakening US consumer, and athletics trend shift. Street extrapolates ST headwinds as inflection point, modeling CROX as melting ice cube scenario with continued top-line decay and operating margin erosion to low/mid-teens, driving CROX (5.3x EBITDA) to trade closer to rubber (5.7x) than footwear peers (14.8x) and at a steep discount to its 5Y avg (9.1x).
+
+**Crocs NA** - Market views NA growth as flat/-LSD due to lack of remaining white space: Crocs in ~36% US households and has ~85% market share in EVA. Market is pessimistic on future product development given 75% revenue concentration in clogs, overlooking Q4 FY24 hiring of Steven Smith (designer of Nike Air Max 2009, New Balance 997s/550s, Yeezy 700/Foam Runners) as Head of Innovation, with first global commercial launch expected FY26. Combined with re-hiring of Terrence Reilly (former Crocs exec. & brains behind Stanley waterbottle success) as CBO, I find it likely Crocs NA stabilizes via trend capture, product innovation, and category expansion. Street also underestimates sandals (~13% rev.) high-margin growth potential, viewing as upsell product despite 60% of sandals buyers on Crocs.com being new to brand. Athletics shift risk is overstated: Crocs maintains strong NIL roster and LT trend towards comfort/casual, hybrid work is consistently growing (BLS, Google Trends). Assumptions: ~0% CAGR through FY29 (vs. Street's -LSD forecast)
+
+**Crocs INTL** - Market underappreciates intl. (~48% rev.) as continued driver. Street views mgmt.'s LT mid-teens growth guidance for intl. as unsustainable. China proves repeatable growth model: low input costs, highly reactive supply chain, & strong local distributor partnerships allow market-specific pricing & culturally-attuned marketing. Hyper-focus on local trends combined with fast-cycle Jibbitz personalization reaction and alignment with locally-revered celebrities as ambassadors (Liu Yuxin, Tan Jianci, Bai Lu) have fueled mid-20% & low-30% YoY China growth (Q3/Q2 FY25) while other American premium retailers contract against a weaker Chinese consumer. TAM saturation risk is overstated: <1% China market penetration, high Jibbitz attachment rates drive up AOV (seen in Q3), & nascent expansion in Tier 2 & 3 cities provide immediate volume scale. Proven playbook is also replicable in other underpenetrated markets (IND, JAP, GER, FRA) where Crocs has ~¼ penetration of mature markets and <1% share in most, implying further abundant white space for LT volume expansion. Assumptions: conservative ~10% CAGR through FY29 (vs. Street's MSD forecast)
+
+**HeyDude** - Street over-extrapolating bleak near-term outlook. Demand suffering from (1) prior over-discounting (now corrected), (2) oversupply in market (finalizing correction), & (3) marketing overfocus on Gen-Z female consumer (correcting). Street models negative growth through FY29, despite wholesale inventory now matching sell-through (negative cleanup effects to end H1 FY26), positive wholesaler engagement on stronger products, and DTC return to MSD growth in last 4 Qs (driven by store openings). Reduced discounting & shift to digital strategy create green shoots for organic growth. Sentiment around HeyDude is so bleak, any positive surprise acts as a "free option". Mgmt. has taken promising steps: shifted store openings back to Midwest (core consumer, avg. owns ~4 pairs), shifting to higher margin DTC channels, and launched HeyDude Country campaign (mgmt. very bullish). Assumptions: –3.31% CAGR (-6.36% Wholesale, 0% DTC) through FY29 (in line with Street)
+
+**Valuation** - Assuming handicapped base case with enterprise rev. growing at 3.50% through FY29 (vs. Street's ~0%), EBIT margin deterioration to ~22.3% (25.6% in FY24), 5x EBITDA (no multiple re-rating), & no share buybacks, I arrive at a share price of $100 (17.67% upside). Setting intl. growth to 15% (in line with mgmt. expectations), I arrive at $112 (31.80%). Buyback program (~4% float in Q3), provides safety net: remaining authorization can repurchase ~25% float.
+
+**Risks** - Given high FC model for SG&A/production, margins are vulnerable to negative operating-leverage risk. Mitigated by ability to shift mix towards higher margin products and channels. Street also forecasts growth tied to SG&A margin appreciation, but mgmt. has leaned into higher-margin digital marketing for Crocs, is preserving HeyDude margin (9th consecutive quarter of ASP increase, cutting lower margin performance marketing), and emphasize reluctancy to pursue margin-dilutive growth. Fashion risk to top-line mitigated by "20 year fad" legacy/proven playbook, mgmt. focus on developing/maintaining brand health, proven marketing differentiation, & LT casualization structural tailwind.
+
+## Post-Mortem & Reflection
+I personally think this was the biggest "learning moment" pitch for me, thanks to a lot of failure and lots of calls with different mentors.
+
+First, I probably entered my research process overly-attached to this pitch. I went into it having read a very bullish Guggenheim sell-side report that definitely swayed my opinion on the name. I think had I led the research process with objective reading and looking at the data first, I probably would have abandoned the pitch altogether. With that being said, I don't think this by itself necessarily makes my pitch a bad pitch.
+
+Second, I think I needed to spend more time looking at alternative data (or having any at all). I realized this very quickly when getting feedback from mentors, and this is definitely something I'm more aware of now.
+
+Third, I was overly focused on things that weren't going to move the needle. My revenue build was way too granular, which led my model to begin reflecting "garbage in, garbage out" assumptions. The granularity didn't make sense for how quantifiable my theses were, which was only worsened by my lack of alt data.
+
+Fourth, I also think CROX's cyclicality is largely under-addressed in regard to the multiple, the margins, and the growth story. Again, I think this is a learning moment that is rooted in lack of experience.
+
+Lastly, I think I learned the diminishing marginal utility of reading on a name. Retrospectively, I realize that reading the 21st TEGUS call changed very little on my domain expertise, I could have stopped at 20, or 10 for that matter.
+
+On the pitch specifically, I think my international thesis is weakly justified. It makes sense for growth to decelerate from (1) law of large numbers and (2) the fact that NA, a leading indicator for what is popular/adopted in fashion, is slowing now. I think the burden of proof to pitch international growth in a long is justifying why international growth would not follow NA growth when it has everywhere else historically.
+
+With all this being said, I think my name and bullish sentiment on the name was not misplaced: I genuinely think trading at $70-80 at the time was too cheap, and the market's sentiment was overly bearish. With this conviction, I bought CROX and made money after Q4 FY25 earnings. I exited my position shortly after. I think the NA growth thesis and HeyDude thesis genuinely have potential, but ultimately they need more data to support them.
