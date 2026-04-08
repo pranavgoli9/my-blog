@@ -3,7 +3,7 @@ title: "Long Pitch on Paycom Software (NYSE: PAYC)"
 date: "2026-09-30"
 ---
 
-## Long Pitch on PAYC
+## The Pitch
 Paycom Software (NYSE: PAYC) is a subscription-based human capital management (HCM) provider that targets 100-249 employee SMB. Paycom’s integrated solution covers all HR processes from recruitment to retirement, eliminating the need for multiple vendors. Paycom’s latest innovation Beti streamlines and consolidates payroll by requiring employees to review paychecks prior to processing.
 
 The HCM industry is both highly competitive and fragmented, with no single dominant player in the market. Driven by constant regulatory change and evolving employment models (remote/hybrid work), the sector will grow at a 10.9% CAGR, primarily in North America. 
