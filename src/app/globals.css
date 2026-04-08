@@ -188,6 +188,6 @@ a:hover {
   font-size: 15px;
   font-weight: 600;
 }
-.section:first-of-type {
+.readingPageHeader + .section {
   padding-top: 8px;
 }
