@@ -26,7 +26,7 @@ export default function ReadingListPage() {
 
   return (
     <>
-      <header className="listHeader">
+      <header className="listHeader readingPageHeader">
         <h1>Reading List</h1>
         <p className="bio">
           A collection of books I'm currently reading, have completed, or plan to read.
