@@ -8,17 +8,14 @@
   --link: #0f172a;
   --linkHover: #0f172a;
 }
-
 * {
   box-sizing: border-box;
 }
-
 html,
 body {
   padding: 0;
   margin: 0;
 }
-
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
   background: var(--bg);
@@ -26,58 +23,47 @@ body {
   line-height: 1.65;
   letter-spacing: -0.01em;
 }
-
 a {
   color: var(--link);
   text-decoration: none;
 }
-
 a:hover {
   color: var(--linkHover);
   text-decoration: underline;
 }
-
 .container {
   width: min(760px, calc(100% - 48px));
   margin: 0 auto;
 }
-
 .siteHeader {
   padding: 34px 0 14px;
 }
-
 .headerInner {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
 }
-
 .brand {
   font-weight: 650;
   font-size: 24px;
 }
-
 .topNav {
   display: flex;
   gap: 14px;
   flex-wrap: wrap;
   justify-content: flex-end;
 }
-
 .topNavLink {
   color: var(--muted);
   font-size: 14px;
 }
-
 .topNavLink:hover {
   color: var(--text);
 }
-
 .listHeader {
   padding: 8px 0 10px;
 }
-
 .listHeader h1 {
   margin: 0 0 10px;
   font-size: 16px;
@@ -85,27 +71,22 @@ a:hover {
   color: var(--text);
   letter-spacing: 0;
 }
-
 .listHeader p {
   margin: 0;
   color: var(--muted);
 }
-
 .bio {
   padding: 8px 0 22px;
   color: var(--muted);
   max-width: 68ch;
 }
-
 .section {
   padding: 18px 0 0;
 }
-
 .sectionRule {
   border-top: 1px solid var(--rule);
   margin: 0;
 }
-
 .list {
   display: grid;
   gap: 18px;
@@ -113,42 +94,35 @@ a:hover {
   padding: 0;
   list-style: none;
 }
-
 .listItem {
   padding: 0;
 }
-
 .listItemTitle {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 16px;
 }
-
 .listItemTitle h2 {
   margin: 0;
   font-size: 18px;
   font-weight: 650;
   letter-spacing: -0.01em;
 }
-
 .date {
   color: var(--faint);
   font-size: 13px;
   white-space: nowrap;
 }
-
 .excerpt {
   margin: 6px 0 0;
   color: var(--muted);
 }
-
 .metaLine {
   margin: 4px 0 0;
   color: var(--faint);
   font-size: 13px;
 }
-
 .pagination {
   display: flex;
   align-items: center;
@@ -156,53 +130,61 @@ a:hover {
   gap: 16px;
   padding: 22px 0 34px;
 }
-
 .pageNumbers {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
 }
-
 .pageLink {
   color: var(--muted);
 }
-
 .pageLink[aria-current="page"] {
   color: var(--text);
   font-weight: 650;
   text-decoration: underline;
   text-underline-offset: 4px;
 }
-
 .prose {
   padding: 8px 0 0;
   max-width: 75ch;
 }
-
 .prose h1 {
   margin: 0 0 10px;
   line-height: 1.2;
   letter-spacing: -0.02em;
 }
-
 .prose :where(h2, h3) {
   margin-top: 26px;
 }
-
 .prose p {
   margin: 12px 0;
 }
-
 .prose code {
   background: #f1f5f9;
   border: 1px solid #e2e8f0;
   padding: 2px 6px;
   border-radius: 8px;
 }
-
 .prose pre code {
   display: block;
   padding: 12px;
   overflow: auto;
 }
-
+.readingPageHeader h1 {
+  font-size: 24px;
+}
+.readingSectionLabel {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.section .list {
+  gap: 10px;
+}
+.section .listItemTitle h2 {
+  font-size: 15px;
+  font-weight: 600;
+}
