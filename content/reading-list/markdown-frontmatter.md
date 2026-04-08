@@ -57,7 +57,7 @@ sections:
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
   - label: Read at Altamont
-    subtitle: Part of my high school curriculum
+    subtitle: Books from high school curriculum (minus the ones I SparkNoted)
     books:
       - title: The Outsiders
         author: S.E. Hinton
