@@ -63,7 +63,7 @@ sections:
     books:
       - title: The Outsiders
         author: S.E. Hinton
-      - title: Great Gatsby
+      - title: The Great Gatsby
         author: F. Scott Fitzgerald
       - title: Animal Farm
         author: George Orwell
