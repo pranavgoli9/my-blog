@@ -4,8 +4,6 @@ sections:
   - label: Currently Reading
     subtitle: Books I'm working on now
     books:
-      - title: "Investing: The Last Liberal Art"
-        author: Robert Hagstrom
       - title: Quality Investing
         author: Lawrence Cunningham
   - label: Completed
@@ -37,6 +35,8 @@ sections:
         author: Alexandre Dumas
       - title: Competition Demystified
         author: Bruce Greenwald
+      - title: "Investing: The Last Liberal Art"
+        author: Robert Hagstrom
   - label: Want to Read
     subtitle: On my list
     books:
