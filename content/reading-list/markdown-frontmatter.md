@@ -117,4 +117,8 @@ sections:
         author: Lois Lowry
       - title: The Glass Menagerie
         author: Tennessee Williams
+      - title: A Midsummer Night's Dream
+        author: William Shakespeare
+      - title: Romeo and Juliet
+        author: William Shakespeare  
 ---
