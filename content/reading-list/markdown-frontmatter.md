@@ -56,6 +56,8 @@ sections:
         author: Steven Drobny
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
+      - title: How to Read a Book
+        author: Mortimer Adler 
   - label: Read at Altamont
     subtitle: Books from high school curriculum (minus the ones I SparkNoted)
     books:
