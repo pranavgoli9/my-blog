@@ -57,7 +57,7 @@ sections:
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
       - title: King Leopold's Ghost
-      - author: Adam Hochschild
+        author: Adam Hochschild
   - label: Read at Altamont
     subtitle: Books from high school curriculum (minus the ones I SparkNoted)
     books:
