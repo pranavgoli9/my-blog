@@ -58,6 +58,8 @@ sections:
         author: Michael Mauboussin and Alfred Rappaport
       - title: King Leopold's Ghost
         author: Adam Hochschild
+      - title: The Little Book of Valuation
+        author: Aswath Damodaran 
   - label: Read at Altamont
     subtitle: Books from high school curriculum (minus the ones I SparkNoted)
     books:
