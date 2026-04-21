@@ -20,7 +20,7 @@ export default function HomePage() {
           Here you'll find some of my work, things I've been thinking about, and what I'm reading. This is mainly to give myself a place to write my thoughts down, but feel free to take a look!
         </p>
         <p>
-          Pitches coming soon: Sportradar Group (NASDAQ: SRAD), Acadia Healthcare (NASDAQ: ACHC)
+          Pitches coming soon: Sportradar Group (NASDAQ: SRAD), Acadia Healthcare (NASDAQ: ACHC), Louisiana-Pacific (NYSE: LPX)
         </p>
       </section>
 
