@@ -2,7 +2,7 @@
 
 title: "Long Pitch on Nextracker (NASDAQ: NXT)"
 
-date: "2024-10-15"
+date: "2024-12-15"
 
 ---
 
