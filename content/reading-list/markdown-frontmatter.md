@@ -4,8 +4,8 @@ sections:
   - label: Currently Reading
     subtitle: Books I'm working on now
     books:
-      - title: Quality Investing
-        author: Lawrence Cunningham
+      - title: The Platform Delusion
+        author: Jonathan Knee
   - label: Completed
     subtitle: Since starting at Penn in 2023
     books:
@@ -37,6 +37,8 @@ sections:
         author: Bruce Greenwald
       - title: "Investing: The Last Liberal Art"
         author: Robert Hagstrom
+      - title: Quality Investing
+        author: Lawrence Cunningham
   - label: Want to Read
     subtitle: On my list
     books:
@@ -48,8 +50,6 @@ sections:
         author: Mary Shelley
       - title: The Art of Short Selling
         author: Kathryn Staley
-      - title: The Platform Delusion
-        author: Jonathan Knee
       - title: Market Wizards
         author: Jack Schwager
       - title: Inside the House of Money
