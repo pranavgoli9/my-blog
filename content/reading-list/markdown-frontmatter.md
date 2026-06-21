@@ -60,5 +60,7 @@ sections:
         author: Adam Hochschild
       - title: The Little Book of Valuation
         author: Aswath Damodaran
+      - title: The Quality Growth Investor
+        author: Long Equity 
 
 ---
