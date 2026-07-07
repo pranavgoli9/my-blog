@@ -58,8 +58,8 @@ sections:
         author: Michael Mauboussin and Alfred Rappaport
       - title: King Leopold's Ghost
         author: Adam Hochschild
-      - title: The Little Book of Valuation
-        author: Aswath Damodaran
+      - title: Don Quixote
+        author: Miguel de Cervantes
       - title: The Quality Growth Investor
         author: Long Equity 
 
