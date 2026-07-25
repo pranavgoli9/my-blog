@@ -50,14 +50,8 @@ sections:
         author: Mary Shelley
       - title: The Art of Short Selling
         author: Kathryn Staley
-      - title: Market Wizards
-        author: Jack Schwager
-      - title: Inside the House of Money
-        author: Steven Drobny
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
-      - title: King Leopold's Ghost
-        author: Adam Hochschild
       - title: Don Quixote
         author: Miguel de Cervantes
       - title: The Quality Growth Investor
