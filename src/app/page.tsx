@@ -16,7 +16,7 @@ export default function HomePage() {
     <>
       <section className="bio">
         <p>
-          I grew up in Hoover, Alabama, and am currently studying Economics and Computer Science at Penn. In my free time, I enjoy watching soccer, learning about different businesses & industries, playing chess and poker, and reading. 
+          I grew up in Hoover, Alabama, and am currently studying Economics and Computer Science at Penn. In my free time, I enjoy watching soccer, learning about different businesses and industries, playing chess and poker, and reading. 
           Here you'll find some of my work, things I've been thinking about, and what I'm reading. 
         </p>
         <p>
