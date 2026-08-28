@@ -1,6 +1,6 @@
 ---
 
-title: "Long Pitch on Louisiana-Pacific Corp (NYSE: LPX)"
+title: "Long Pitch on Louisiana-Pacific (NYSE: LPX)"
 
 date: "2026-04-29"
 
