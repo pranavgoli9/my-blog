@@ -2,7 +2,7 @@
 
 title: "Long Pitch on Louisiana-Pacific Corp (NYSE: LPX)"
 
-date: "2025-04-29"
+date: "2026-04-29"
 
 ---
 
