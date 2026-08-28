@@ -20,7 +20,9 @@ Assuming a normalization to pre-GFC SF starts (1200k by FY30), and slight mid-cy
 Potential risks include (1) overly-delayed or no reversion to pre-GFC starts, (2) asymmetric distribution in SF starts compared to historicals, particularly if concentrated in regions LPX does not serve or in lower-end homes that use vinyl, (3) major negative price shock to OSB that impairs enterprise margin.	
 
 <sup>1</sup> Rule of thumb for on-the-wall cost – “If it's a dollar for vinyl, it's $1.50 for fiber cement, and maybe $1.35 or $1.40 for engineered wood.” (Former National Account Leader at James Hardie 10/8/25)
+
 <sup>2</sup> (1) Many HOAs require the use of Hardie siding, 66% of SF starts in 2024 were built in an HOA, (2) Hardie is entrenched at the mid-cap builder and consumer level from its decades of aggressive advertising and brand-building, (3) Hardie’s scale is unmatched (3bn+ in capacity, in 80% of the top 200 builders, 24/25 largest builders, many with exclusivity agreements), (4) fiber cement is fire resistant unlike engineered wood, constraining LPX in markets with strict fire codes. 
+
 <sup>3</sup> Vinyl has been strong given recent price-constraints for home-owners and builders, but has experienced major share declines in the LT: collective vinyl market share has to 26% of new home starts vs. 40% in early 2000s. Most US siding was originally vinyl (cheap, quick), but technological evolution led to the creation of more effective fiber cement and engineered wood siding. 
 
 ## Post-Mortem & Reflection
