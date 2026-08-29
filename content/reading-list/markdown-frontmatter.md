@@ -52,8 +52,8 @@ sections:
         author: Kathryn Staley
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
-      - title: Don Quixote
-        author: Miguel de Cervantes
+      - title: Super/System
+        author: Doyle Brunson and Mike Caro
       - title: The Quality Growth Investor
         author: Long Equity 
 
