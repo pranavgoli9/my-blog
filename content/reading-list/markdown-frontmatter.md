@@ -55,6 +55,8 @@ sections:
       - title: Super/System
         author: Doyle Brunson and Mike Caro
       - title: The Quality Growth Investor
-        author: Long Equity 
+        author: Long Equity
+      - title: Chip War: The Fight for the World's Most Critical Technology
+        author: Chris Miller
 
 ---
