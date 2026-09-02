@@ -56,7 +56,7 @@ sections:
         author: Doyle Brunson and Mike Caro
       - title: The Quality Growth Investor
         author: Long Equity
-      - title: Chip War: The Fight for the World's Most Critical Technology
+      - title: Chip War
         author: Chris Miller
 
 ---
