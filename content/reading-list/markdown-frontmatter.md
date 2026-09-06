@@ -2,12 +2,12 @@
 title: Reading List
 sections:
   - label: Currently Reading
-    subtitle: Books I'm working on now
+    subtitle: Working through now
     books:
       - title: The Platform Delusion
         author: Jonathan Knee
   - label: Completed
-    subtitle: Since starting at Penn in 2023
+    subtitle: Since starting at Penn in 2023 (roughly in order)
     books:
       - title: The Little Book of Common Sense Investing
         author: John Bogle
