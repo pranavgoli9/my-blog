@@ -4,8 +4,8 @@ sections:
   - label: Currently Reading
     subtitle: Working through now
     books:
-      - title: The Platform Delusion
-        author: Jonathan Knee
+      - title: The Myth of Sisyphus
+        author: Albert Camus
   - label: Completed
     subtitle: Since starting at Penn in 2023 (roughly in order)
     books:
@@ -39,11 +39,11 @@ sections:
         author: Robert Hagstrom
       - title: Quality Investing
         author: Lawrence Cunningham
+      - title: The Platform Delusion
+        author: Jonathan Knee
   - label: Want to Read
     subtitle: On my list
     books:
-      - title: The Myth of Sisyphus
-        author: Albert Camus
       - title: The Catcher in the Rye
         author: J.D. Salinger
       - title: Frankenstein
