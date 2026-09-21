@@ -61,25 +61,30 @@ export default async function HomePage({
 
         {totalPages > 1 && (
           <nav className="pagination" aria-label="Latest pages">
-            <div className="paginationNumbers">
-              {Array.from({ length: totalPages }, (_, i) => i + 1).map((n) =>
-                n === currentPage ? (
-                  <span key={n} className="pageNumber active" aria-current="page">
-                    {n}
-                  </span>
-                ) : (
-                  <Link key={n} href={pageHref(n)} scroll={false} className="pageNumber">
-                    {n}
-                  </Link>
-                )
-              )}
+            <div className="pageNumbers">
+              {Array.from({ length: totalPages }, (_, i) => i + 1).map((n) => (
+                <Link
+                  key={n}
+                  href={pageHref(n)}
+                  scroll={false}
+                  className="pageLink"
+                  aria-current={n === currentPage ? "page" : undefined}
+                >
+                  {n}
+                </Link>
+              ))}
             </div>
-            <div className="paginationArrows">
+
+            <div className="pageNumbers">
               {currentPage > 1 && (
-                <Link href={pageHref(currentPage - 1)} scroll={false}>← Prev</Link>
+                <Link href={pageHref(currentPage - 1)} scroll={false} className="pageLink">
+                  ← Prev
+                </Link>
               )}
               {currentPage < totalPages && (
-                <Link href={pageHref(currentPage + 1)} scroll={false}>Next →</Link>
+                <Link href={pageHref(currentPage + 1)} scroll={false} className="pageLink">
+                  Next →
+                </Link>
               )}
             </div>
           </nav>
