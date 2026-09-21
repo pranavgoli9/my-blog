@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { getListItems } from "@/lib/content";
-import { paginate } from "@/lib/pagination";
 export const dynamic = "force-static";
 
 function formatShortDate(isoDate: string) {
@@ -16,7 +15,8 @@ function safeDate(v: unknown): string | undefined {
 }
 
 export default function PostsPage() {
-  const { items: posts, page: currentPage, totalPages } = paginate(getListItems("posts"), 1, 10);
+  const posts = getListItems("posts");
+
   return (
     <>
       <header className="listHeader readingPageHeader">
@@ -42,33 +42,6 @@ export default function PostsPage() {
           );
         })}
       </ul>
-      <div className="pagination">
-        <div className="pageNumbers" aria-label="Pagination">
-          {Array.from({ length: totalPages }, (_, i) => {
-            const n = i + 1;
-            const href = n === 1 ? "/posts" : `/posts/page/${n}`;
-            return (
-              <Link
-                key={n}
-                className="pageLink"
-                href={href}
-                aria-current={n === currentPage ? "page" : undefined}
-              >
-                {n}
-              </Link>
-            );
-          })}
-        </div>
-        {currentPage < totalPages ? (
-          <Link className="pageLink" href={`/posts/page/${currentPage + 1}`}>
-            Next →
-          </Link>
-        ) : (
-          <span className="pageLink" style={{ color: "var(--faint)" }}>
-            Next →
-          </span>
-        )}
-      </div>
     </>
   );
 }
