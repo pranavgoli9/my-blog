@@ -191,6 +191,13 @@ a:hover {
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
+.readingSectionLabel + p {
+  margin: 2px 0 0;
+  font-size: 14px;
+  font-style: italic;
+  color: var(--muted);
+}
+
 .section .list {
   gap: 10px;
 }
