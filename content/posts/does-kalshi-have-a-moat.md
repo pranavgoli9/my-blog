@@ -1,6 +1,6 @@
 ---
 
-title: "Does Kalshi Have a Moat?"
+title: "Thoughts on Kalshi's Moat"
 
 date: "2026-09-21"
 
