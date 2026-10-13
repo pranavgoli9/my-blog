@@ -224,8 +224,16 @@ main.container {
 
 /* Footer */
 .siteFooter {
-  margin-top: 3rem;
-  padding: 0 0 2.5rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 14px 0 2.5rem;
+  background: var(--bg);
+}
+
+body {
+  padding-bottom: 90px;
 }
 
 .socialLinks {
