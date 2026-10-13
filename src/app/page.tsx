@@ -34,8 +34,10 @@ export default async function HomePage({
     <>
       <section className="bio">
         <p>
-          I grew up in Hoover, Alabama, and am currently studying Economics and Computer Science at Penn. In my free time, I enjoy watching soccer, learning about different businesses, playing chess and poker, and reading.
-          Here you'll find some of my work, things I've been thinking about, and what I'm reading. Please reach out if you have any thoughts or feedback.
+          I currently study Economics and Computer Science at Penn and am interested in public markets. 
+          After graduation, I'll be joining Evercore's M&A team in New York. In my free time, I enjoy reading, 
+          watching soccer, and playing poker and chess. Here, I've compiled some of my thoughts, pitches, and 
+          other writings. Please reach out with any comments: I welcome feedback and discussion! 
         </p>
       </section>
 
