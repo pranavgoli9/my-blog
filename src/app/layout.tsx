@@ -29,9 +29,21 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </nav>
           </div>
         </header>
+
         <main className="container">{children}</main>
+
+        <footer className="container siteFooter">
+          <hr className="sectionRule" />
+          <div className="socialLinks">
+            <a href="https://www.linkedin.com/in/pranavgoli" target="_blank" rel="noopener noreferrer">
+              LinkedIn
+            </a>
+            <a href="https://x.com/pranavgoli1000" target="_blank" rel="noopener noreferrer">
+              X
+            </a>
+          </div>
+        </footer>
       </body>
     </html>
   );
 }
-
