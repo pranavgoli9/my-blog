@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getLatestWritingItems } from "@/lib/content";
 
-const PAGE_SIZE = 4;
+const PAGE_SIZE = 5;
 
 function formatShortDate(isoDate: string) {
   // Expecting yyyy-mm-dd. Format as M/D/YYYY (no leading zeros).
