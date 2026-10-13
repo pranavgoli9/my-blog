@@ -201,23 +201,36 @@ a:hover {
 .postItem:last-child {
   border-bottom: none;
 }
+/* Push footer to the bottom of the screen on short pages */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main.container {
+  flex: 1;
+}
+
+/* Footer */
 .siteFooter {
   margin-top: 3rem;
-  padding-bottom: 2.5rem;
+  padding: 0 0 2.5rem;
 }
 
 .socialLinks {
   display: flex;
   gap: 1.25rem;
-  font-size: 0.9rem;
+  padding-top: 14px;
+  font-size: 13px;
 }
 
 .socialLinks a {
-  color: inherit;
-  text-decoration: none;
+  color: var(--muted);
 }
 
 .socialLinks a:hover {
+  color: var(--text);
   text-decoration: underline;
   text-underline-offset: 4px;
 }
