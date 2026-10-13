@@ -128,7 +128,7 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-  padding: 22px 0 34px;
+  padding: 22px 0 16px;
 }
 .pageNumbers {
   display: flex;
@@ -224,22 +224,12 @@ main.container {
 
 /* Footer */
 .siteFooter {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 14px 0 2.5rem;
-  background: var(--bg);
-}
-
-body {
-  padding-bottom: 90px;
+  padding: 0 0 2.5rem;
 }
 
 .socialLinks {
   display: flex;
   gap: 1.25rem;
-  padding-top: 14px;
   font-size: 13px;
 }
 
