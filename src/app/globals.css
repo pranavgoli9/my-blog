@@ -224,6 +224,7 @@ main.container {
 
 /* Footer */
 .siteFooter {
+  margin-top: 2rem;
   padding: 0 0 2.5rem;
 }
 
