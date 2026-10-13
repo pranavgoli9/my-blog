@@ -33,7 +33,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="container">{children}</main>
 
         <footer className="container siteFooter">
-          <hr className="sectionRule" />
           <div className="socialLinks">
             <a href="https://www.linkedin.com/in/pranavgoli" target="_blank" rel="noopener noreferrer">
               LinkedIn
