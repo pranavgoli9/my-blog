@@ -201,3 +201,23 @@ a:hover {
 .postItem:last-child {
   border-bottom: none;
 }
+.siteFooter {
+  margin-top: 3rem;
+  padding-bottom: 2.5rem;
+}
+
+.socialLinks {
+  display: flex;
+  gap: 1.25rem;
+  font-size: 0.9rem;
+}
+
+.socialLinks a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.socialLinks a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
