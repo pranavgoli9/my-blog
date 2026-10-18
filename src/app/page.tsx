@@ -34,10 +34,9 @@ export default async function HomePage({
     <>
       <section className="bio">
         <p>
-          I currently study Economics and Computer Science at Penn and am interested in public markets. 
-          After graduation, I'll be joining Evercore's M&A team in New York. In my free time, I enjoy reading, 
-          watching soccer, and playing poker and chess. Here, I've compiled some of my thoughts, pitches, and 
-          other writings. Please reach out with any comments: I welcome feedback and discussion! 
+          I study Economics and CS at Penn and am interested in public markets. After graduation, I'm joining Evercore's M&A team in New York. 
+          I enjoy reading, watching soccer, and playing poker and chess. Here, you'll find some of my thoughts, pitches, and other writing. 
+          Please reach out with any comments: I welcome feedback and discussion! 
         </p>
       </section>
 
