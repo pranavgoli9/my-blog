@@ -58,5 +58,8 @@ sections:
         author: Long Equity
       - title: Thinking from Zero
         author: Joe Eyman
+      - title: Zero to One
+        author: Peter Thiel and Blake Masters
+        
 
 ---
