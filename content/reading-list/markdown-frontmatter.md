@@ -56,5 +56,7 @@ sections:
         author: Doyle Brunson and Mike Caro
       - title: The Quality Growth Investor
         author: Long Equity
+      - title: Thinking from Zero
+        author: Joe Eyman
 
 ---
