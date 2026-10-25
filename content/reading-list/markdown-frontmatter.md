@@ -4,8 +4,8 @@ sections:
   - label: Currently Reading
     subtitle: Working through now
     books:
-      - title: The Myth of Sisyphus
-        author: Albert Camus
+      - title: The Art of Short Selling
+        author: Kathryn Staley
   - label: Completed
     subtitle: Since starting at Penn in 2023 (roughly in order)
     books:
@@ -41,6 +41,8 @@ sections:
         author: Lawrence Cunningham
       - title: The Platform Delusion
         author: Jonathan Knee
+      - title: The Myth of Sisyphus
+        author: Albert Camus
   - label: Want to Read
     subtitle: On my list
     books:
@@ -48,8 +50,6 @@ sections:
         author: J.D. Salinger
       - title: Frankenstein
         author: Mary Shelley
-      - title: The Art of Short Selling
-        author: Kathryn Staley
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
       - title: Super/System
