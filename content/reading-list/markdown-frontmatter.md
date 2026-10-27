@@ -60,6 +60,8 @@ sections:
         author: Joe Eyman
       - title: Zero to One
         author: Peter Thiel and Blake Masters
+      - title: Meditations
+        author: Marcus Aurelius
         
 
 ---
