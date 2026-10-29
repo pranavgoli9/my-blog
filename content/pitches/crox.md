@@ -24,16 +24,12 @@ date: "2025-12-01"
 ## Post-Mortem & Reflection
 I personally think this was the biggest "learning moment" pitch for me, particularly thanks to several calls with different mentors and lots of feedback from friends.
 
-First, I probably entered my research process overly-attached to this pitch. I went into it having read a very bullish Guggenheim sell-side report that definitely swayed my opinion on the name. I think had I led the research process with objective reading and looking at the data first, I probably would have abandoned the pitch altogether. With that being said, I don't think this by itself necessarily makes my pitch a bad pitch.
+First, I think I needed to spend more time looking at alternative data (or having any at all). I realized this very quickly when getting feedback from mentors, and this is definitely something I'm more aware of now.
 
-Second, I think I needed to spend more time looking at alternative data (or having any at all). I realized this very quickly when getting feedback from mentors, and this is definitely something I'm more aware of now.
-
-Third, I was overly focused on things that weren't going to move the needle. My revenue build was way too granular, which led my model to begin reflecting "garbage in, garbage out" assumptions. The granularity didn't make sense for how quantifiable my theses were, which was only worsened by my lack of alt data.
-
-Fourth, I also think CROX's cyclicality is largely under-addressed in regard to the multiple, the margins, and the growth story. Again, I think this is a learning moment that is rooted in lack of experience.
-
-Lastly, I think I learned the diminishing marginal utility of reading on a name. Retrospectively, I realize that reading the 21st TEGUS call changed very little on my domain expertise, I could have stopped at 20, or 10 for that matter.
+Second, I was overly focused on things that weren't going to move the needle. My revenue build was way too granular, which led my model to begin reflecting "garbage in, garbage out" assumptions. The granularity didn't make sense for how quantifiable my theses were, which was only worsened by my lack of alt data.
 
 On the pitch specifically, I think my international thesis is weakly justified. It makes sense for growth to decelerate from (1) law of large numbers and (2) the fact that NA, a leading indicator for what is popular/adopted in fashion, is slowing now. I think the burden of proof to pitch international growth in a long is justifying why international growth would not follow NA growth when it has everywhere else historically.
 
-With all this being said, I think my name and bullish sentiment on the name was not misplaced: I genuinely think trading at $70-80 at the time was too cheap, and the market's sentiment was overly bearish. I believe I was directionally correct with my pitch, albeit, poorly justified. With this conviction, I bought CROX and made money after Q4 FY25 earnings. I exited my position shortly after. I think the NA growth thesis and HeyDude thesis genuinely have potential, but ultimately they need more data to support them.
+With all this being said, I think my name and bullish sentiment on the name was not misplaced: I genuinely think trading at $70-80 (~6x earnings) at the time was too cheap, and the market's sentiment was overly bearish. I believe I was directionally correct with my pitch, albeit, poorly justified. With this conviction, I bought CROX. However, I exited my position shortly after. I think the NA growth thesis and HeyDude thesis were proven correct in the end, but ultimately needed more data to support them.
+
+Update as of 10/29/26: I'm glad to see my HeyDude thesis playing out (which I originally left as un-modeled upside). After 3Q26, CROX reported its first quarter of positive HeyDude sales growth. When I looked at this a year ago, Street was essentially assigning zero terminal value to the brand with no turnaround prospect (essentially modeling it as dead weight). 
