@@ -62,6 +62,8 @@ sections:
         author: Peter Thiel and Blake Masters
       - title: Meditations
         author: Marcus Aurelius
+      - title: Chip War
+        author: Chris Miller
         
 
 ---
