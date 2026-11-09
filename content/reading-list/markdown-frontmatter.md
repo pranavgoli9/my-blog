@@ -7,7 +7,7 @@ sections:
       - title: The Art of Short Selling
         author: Kathryn Staley
   - label: Completed
-    subtitle: Since starting at Penn in 2023 (roughly in order)
+    subtitle: Since starting ~January 2024 (roughly in order)
     books:
       - title: The Little Book of Common Sense Investing
         author: John Bogle
