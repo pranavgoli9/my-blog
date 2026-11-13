@@ -66,6 +66,4 @@ sections:
         author: Chris Miller
       - title: Market Wizards Series
         author: Jack Schwager
-      - title: The Philosopher in the Valley
-        author: Michael Steinberger
 ---
