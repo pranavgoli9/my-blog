@@ -4,8 +4,10 @@ sections:
   - label: Currently Reading
     subtitle: Working through now
     books:
-      - title: The Art of Short Selling
-        author: Kathryn Staley
+      - title: Expectations Investing
+        author: Michael Mauboussin and Alfred Rappaport
+      - title: Thinking from Zero
+        author: Joe Eyman
   - label: Completed
     subtitle: Since ~January 2024 (roughly in order)
     books:
@@ -43,6 +45,8 @@ sections:
         author: Jonathan Knee
       - title: The Myth of Sisyphus
         author: Albert Camus
+      - title: The Art of Short Selling
+        author: Kathryn Staley
   - label: Want to Read
     subtitle: On my list
     books:
@@ -50,20 +54,18 @@ sections:
         author: J.D. Salinger
       - title: Frankenstein
         author: Mary Shelley
-      - title: Expectations Investing
-        author: Michael Mauboussin and Alfred Rappaport
       - title: Super/System
         author: Doyle Brunson and Mike Caro
       - title: The Quality Growth Investor
         author: Long Equity
-      - title: Thinking from Zero
-        author: Joe Eyman
       - title: Zero to One
         author: Peter Thiel and Blake Masters
       - title: Meditations
         author: Marcus Aurelius
       - title: Chip War
         author: Chris Miller
-        
-
+      - title: Market Wizards Series
+        author: Jack Schwager
+      - title: The Philosopher in the Valley
+        author: Michael Steinberger
 ---
