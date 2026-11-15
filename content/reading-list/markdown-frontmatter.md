@@ -9,7 +9,7 @@ sections:
       - title: Thinking from Zero
         author: Joe Eyman
   - label: Completed
-    subtitle: Since 2024 (in rough order)
+    subtitle: Since 2024, roughly in order
     books:
       - title: The Little Book of Common Sense Investing
         author: John Bogle
