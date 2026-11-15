@@ -6,8 +6,6 @@ sections:
     books:
       - title: Expectations Investing
         author: Michael Mauboussin and Alfred Rappaport
-      - title: Thinking from Zero
-        author: Joe Eyman
   - label: Completed
     subtitle: Since 2024, roughly in order
     books:
