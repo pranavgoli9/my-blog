@@ -66,4 +66,6 @@ sections:
         author: Chris Miller
       - title: Market Wizards Series
         author: Jack Schwager
+      - title: SPQR
+        author: Mary Beard
 ---
