@@ -66,4 +66,6 @@ sections:
         author: Jack Schwager
       - title: SPQR
         author: Mary Beard
+      - title: The Gambler
+        author: Fyodor Dostoevsky
 ---
